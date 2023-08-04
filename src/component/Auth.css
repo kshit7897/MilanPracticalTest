@@ -1,0 +1,11 @@
+.auth__form {
+    border: 1x solid black;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.Business__form {
+    border: 1px solid black;
+    
+}
